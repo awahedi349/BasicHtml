@@ -1,0 +1,33 @@
+.Box{
+    color: rgb(0, 0, 0);
+    
+    border-style:dotted;
+    border-width: 3px
+    border-colour black;
+}
+
+
+#Mylist{
+    color: black;
+    background-color: tan;
+    border-width: 10px;
+    border-color: red;
+    border-style:groove;
+    width: 50%;
+    margin: 1;
+    padding:6;
+}
+
+.menu-item {
+    background-color: white;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 8px;
+    box-shadow: -10px 4px 8px rgba(0,0,0,0.1);
+}
+
+.menu-item h3 {
+    margin-top: 0;
+}
+
+

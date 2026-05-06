@@ -1,0 +1,86 @@
+.first{
+    background-color: rgb(255, 11, 11);
+
+}
+.impac{
+    color: rgb(0, 0, 0);
+    
+    border-style:dotted;
+    border-width: 3px
+    border-colour black;
+}
+
+.color1
+{
+    Color: red;
+}
+.color2
+{
+    color: orange;
+}
+.color3
+{
+    color: yellow
+}
+
+.color4
+{
+    color: rgb(22, 212, 22)
+}
+
+.color5
+{
+    color: blue
+}
+
+.color6
+{
+    color: indigo;
+}
+
+.color7
+{
+    color: violet
+}
+
+.R{
+    color: red;
+}
+
+.A{
+    color: orange;
+}
+
+.I{
+   color: Yellow; 
+}
+
+.N{
+    color: green;
+}
+
+.B{
+    color: Blue;
+}
+
+.O{
+    color: indigo;
+}
+
+.W{
+    color: violet;
+}
+s
+#MyList2{
+    background-color: darkgray;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    
+   
+    color:black;
+    width: 600px;
+    margin: auto;
+    padding: 15px;
+
+}
